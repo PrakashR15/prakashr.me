@@ -8,8 +8,10 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.mjs
-    siteTitleAlt: `Prakashme`,
-    siteHeadline: `Prakashme`,
+    siteTitle: `prakash`,
+    siteTitleAlt: `prakash`,
+    siteHeadline: `prakash`,
+    siteImage: `/banner.jpg`,
     siteLanguage: `en`,
     author: `@lekoarts_de`,
   },
