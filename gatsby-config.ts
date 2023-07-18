@@ -11,7 +11,6 @@ const config: GatsbyConfig = {
     siteTitle: `prakash`,
     siteTitleAlt: `prakash`,
     siteHeadline: `prakash`,
-    siteUrl: `https://cara.lekoarts.de`,
     siteDescription: `just featuring me`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
